@@ -7,7 +7,7 @@
 
 I’m pursuing a Computer Science degree at WGU, set to graduate in 2025. My background includes degrees in Psychology and Education. I hold a teaching license for grades 1-6 and currently substitute teach while I study. 
 
-According to Myers-Briggs, I’m an INFP, so like many INFPs, I love sunsets and enjoy capturing nature through photography (novice photographer). This personality type helps me stay motivated and empathetic, ensuring that my work is both user-centered and meaningful.
+According to Myers-Briggs, I’m an INFP, so like many INFPs, I love sunsets and enjoy capturing nature through photography (novice photographer). My empathetic nature drives me to ensure that my work is both user-centered and meaningful. I am committed to contributing effectively to all aspects of a project, understanding that every task plays a crucial role in achieving overall success.
 
 My top 5 CliftonStrengths are Realtor, Learner, Input, Responsibility, and Adaptability. I enjoy learning new things and exploring new ideas.
 
