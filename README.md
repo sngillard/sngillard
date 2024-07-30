@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 <h2 align="center">Aspiring Developer and Lifelong Learner with a Background in Education</h2>
 
-<h3>
+<p style="font-size: 1.5em;"> <strong>
   🎓 I’m currently working on <a href="https://github.com/sngillard/WGU_Transfer_Courses.git" target="_blank">BSCS from Western Governors University</a>
-</h3>
+</strong></p>
 
-<h3>
-  👩🏻‍💻 I've completed several <a href="https://www.shecodes.io/graduates/43613-sarah-gillard" target="_blank">SheCodes Coding Workshops</a>
-</h3>
+<p style="font-size: 1.5em;"> <strong>
+  👩🏻‍💻 I've completed several <a href="https://www.shecodes.io/graduates/43613-sarah-gillard" target="_blank">SheCodes Coding Workshops</a> </strong>
+</p>
+
 
 I’m pursuing a Computer Science degree at WGU, set to graduate in 2025. My background includes degrees in Psychology and Education, and I hold a teaching license for grades 1-6. Currently, I substitute teach while I study.
 
