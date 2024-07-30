@@ -14,9 +14,9 @@ I’m pursuing a Computer Science degree at WGU, set to graduate in 2025. My bac
 
 Like many with ADHD, I’ve explored various career paths, but programming has really captured my interest. I find it engaging because it offers the chance to solve problems and be creative in different ways. It feels like a field where my strengths align nicely.
 
-As a geek into personality types, I know I’m an INFP—like many INFPs, I love taking photos of sunsets and have an empathetic personality. My Enneagram type is 6w5, which means I also have an analytical side. My top CliftonStrengths—Realtor, Learner, Input, Responsibility, and Adaptability—reflect my passion for learning and exploring new ideas.
+As one of those people into personality types, I know I’m an INFP—like many INFPs, I love taking photos of sunsets and have an empathetic personality. My Enneagram type is 6w5, which means I also have an analytical side. My top CliftonStrengths—Realtor, Learner, Input, Responsibility, and Adaptability—reflect my passion for learning and exploring new ideas.
 
-I’m not a fan of social media—even LinkedIn began to feel a bit too social-media-ish for me—so I use this GitHub profile to showcase my projects and introduce myself to potential recruiters who might find it through my resume.
+I’m not a fan of having social media—even LinkedIn began to feel a bit too social-media-ish for me—so I use this GitHub profile to showcase my projects and introduce myself to potential recruiters who might find it through my resume.
 
 Thanks for checking it out!
 
