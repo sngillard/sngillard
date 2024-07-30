@@ -3,7 +3,9 @@
 
 <h3>
 🎓 I’m currently working on [BSCS from Western Governors University](https://github.com/sngillard/WGU_Transfer_Courses.git)
+</h3>
 
+<h3>
 👩🏻‍💻 I've completed several [SheCodes Coding Workshops](https://www.shecodes.io/graduates/43613-sarah-gillard)
 </h3>
 
