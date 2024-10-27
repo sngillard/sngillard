@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
-<h2 align="center">Aspiring Developer and Lifelong Learner with a Background in Education</h2>
 
 <p style="font-size: 1.5em;"> <strong>
   🎓 I’m currently working on <a href="https://github.com/sngillard/WGU_Transfer_Courses.git" target="_blank">BSCS from Western Governors University</a>
