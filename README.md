@@ -4,7 +4,7 @@
 </p>
 
 <p style="font-size: 1.5em;"> <strong>
-🎓 I’m currently working on <a href="https://github.com/sngillard/WGU_Transfer_Courses/blob/main/README.md" target="_blank">BSCS from Western Governors University</a>
+🎓 I’m currently working on <a href="https://github.com/sngillard/WGU_Transfer_Courses/blob/29e308848485398dcb63a637db9dc31e45750ab1/README.md" target="_blank">BSCS from Western Governors University</a>
 </strong></p>
 
 <p style="font-size: 1.5em;"> <strong>
