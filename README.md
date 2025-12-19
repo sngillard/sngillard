@@ -11,8 +11,3 @@
 
 📫 Get in Touch  
 💼 [Get in touch on LinkedIn](https://www.linkedin.com/in/sarahgillard3)  
-
----
-
-🗓️ *Last updated: July 2025*
-
