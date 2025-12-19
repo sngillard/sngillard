@@ -3,14 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=sngillard&color=blue" alt="Profile views" />
 </p>
 
-<p style="font-size: 1.5em;"> <strong>
-🎓 I’m currently working on <a href="https://github.com/sngillard/WGU_Transfer_Courses/blob/29e308848485398dcb63a637db9dc31e45750ab1/README.md" target="_blank">BSCS from Western Governors University</a>
-</strong></p>
-
-<p style="font-size: 1.5em;"> <strong>
-  👩🏻‍💻 I've completed several <a href="https://www.shecodes.io/graduates/43613-sarah-gillard" target="_blank">SheCodes Coding Workshops</a>
-</strong></p>
-
 🌱 **Interests:** Web development, artificial intelligence, and exploring creative ways to use technology.
 
 <p align="center">
