@@ -76,10 +76,10 @@ Models real-world delivery constraints while minimizing total distance traveled.
 </div>
 
 <div align="center">
-<h3>🐶 Em’s Doggy Days Website</h3>
+<h3>🐶 Em’s Doggy Days Website (Frontend Development)</h3>
   <p>
 Website built for a professional dog trainer based in Hopkinton, MA.<br />
-Includes responsive layout, SEO optimization, Netlify deployment, and form handling.
+Developed a responsive frontend with SEO optimization, Netlify deployment, and form handling.
   </p>
   <p>
 🌐 <a href="https://emsdoggydays.com">Live Website</a>  <br />
