@@ -69,7 +69,6 @@ Built with Python, scikit-learn, and Jupyter Notebooks using an end-to-end ML wo
   <p>
 Route optimization simulation using a greedy nearest neighbor algorithm and custom hash table. Models real-world delivery constraints while minimizing total distance traveled.
   </p>
-Built with Python, custom data structures, and time-based simulation.
   <p>
 🔗 <a href="https://github.com/sngillard/package-delivery-route-optimizer">View GitHub Repository</a>
 </p>
