@@ -67,7 +67,7 @@ Built with Python, scikit-learn, and Jupyter Notebooks using an end-to-end ML wo
 <div align="center">
 <h3>🚚 Package Delivery Route Optimizer (Data Structures & Algorithms)</h3>
   <p>
-Route optimization system simulating real-world delivery logistics using a greedy nearest neighbor algorithm and a custom hash table for efficient package lookup. <br /> Handles delivery constraints such as delays, grouped packages, and address corrections while minimizing total mileage.
+Route optimization simulation using a greedy nearest neighbor algorithm and custom hash table. Models real-world delivery constraints while minimizing total distance traveled.
   </p>
 Built with Python, custom data structures, and time-based simulation.
   <p>
