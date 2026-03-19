@@ -65,6 +65,17 @@ Built with Python, scikit-learn, and Jupyter Notebooks using an end-to-end ML wo
 </div>
 
 <div align="center">
+<h3>🚚 Package Delivery Route Optimizer (Data Structures & Algorithms)</h3>
+  <p>
+Route optimization system simulating real-world delivery logistics using a greedy nearest neighbor algorithm and a custom hash table for efficient package lookup. <br /> Handles delivery constraints such as delays, grouped packages, and address corrections while minimizing total mileage.
+  </p>
+Built with Python, custom data structures, and time-based simulation.
+  <p>
+🔗 <a href="https://github.com/sngillard/package-delivery-route-optimizer">View GitHub Repository</a>
+</p>
+</div>
+
+<div align="center">
 <h3>🐶 Em’s Doggy Days Website</h3>
   <p>
 Website built for a professional dog trainer based in Hopkinton, MA.<br />
