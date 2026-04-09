@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 
 <p align="center">
-  Machine Learning • Data Analysis • Web Development • EdTech
+  Software Engineering • Web Development • Data Analysis • EdTech
 </p>
 
 <hr />
@@ -12,7 +12,6 @@
 
 Software Development  
 Data Analysis  
-Machine Learning  
 Customer-facing technical roles (Implementation, Product Training, Technical Support)
 
 </div>
@@ -29,10 +28,12 @@ Customer-facing technical roles (Implementation, Product Training, Technical Sup
 
 <h3>👩🏻‍💻 Interests</h3>
 
-Machine Learning  
-Data Analysis  
 Web Development  
 Creative & educational uses of technology
+Data Analysis  
+Machine Learning  
+
+
 
 </div>
 
