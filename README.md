@@ -30,7 +30,7 @@ Customer-facing technical roles (Implementation, Product Training, Technical Sup
 
 Web Development  
 Creative & educational uses of technology
-Data Analysis  
+Data Analysis 
 Machine Learning  
 
 
