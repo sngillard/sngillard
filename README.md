@@ -6,58 +6,13 @@
 
 <hr />
 
-<div align="center">
-
-<h3>🎯 Seeking Entry-Level Roles</h3>
-
-Software Development  
-Data Analysis  
-Customer-facing technical roles (Implementation, Product Training, Technical Support)
-
-</div>
-
-
-<div align="center">
-
-<h3>📫 Get in Touch</h3>
-💼 <a href="https://www.linkedin.com/in/sarahgillard3">LinkedIn</a>
-
-</div>
-
-<div align="center">
-
-<h3>👩🏻‍💻 Interests</h3>
-
-Web Development  
-Creative & educational uses of technology
-Data analysis 
-
-
-
-</div>
-
-
-<div align="center">
-
-<h3>🎓 Background</h3>
-
-B.S. Psychology (2013)  
-M.Ed. (2017)  
-B.S. Computer Science (2026)  
-Current substitute teacher with experience supporting technology use and instruction
-
-</div>
-
-
-<hr />
-
 
 <h2 align="center">⭐ Featured Projects</h2>
 
 <div align="center">
 <h3>🎓 Student Outcome Classification (Machine Learning)</h3>
 <p>Multiclass machine learning model predicting student outcomes (dropout, enrolled, graduate).<br/>
-Built with Python, scikit-learn, and Jupyter Notebooks using an end-to-end ML workflow.
+Built with Python, scikit-learn, and Jupyter Notebooks.
 </p>
   <p>
 🔗<a href="https://github.com/sngillard/student-outcome-classification">View GitHub Repository</a>
@@ -67,8 +22,8 @@ Built with Python, scikit-learn, and Jupyter Notebooks using an end-to-end ML wo
 <div align="center">
 <h3>🚚 Package Delivery Route Optimizer (Data Structures & Algorithms)</h3>
   <p>
-Route optimization simulation using a greedy nearest neighbor algorithm and custom hash table.<br />
-Models real-world delivery constraints while minimizing total distance traveled.
+Route optimization simulation using a greedy nearest neighbor algorithm and a custom hash table.<br />
+Models real-world delivery restrictions while minimizing the total distance traveled.
   </p>
   <p>
 🔗 <a href="https://github.com/sngillard/package-delivery-route-optimizer">View GitHub Repository</a>
@@ -85,6 +40,69 @@ Developed a responsive frontend with SEO optimization, Netlify deployment, and f
 🌐 <a href="https://emsdoggydays.com">Live Website</a>  <br />
 🔗 <a href="https://github.com/sngillard/ems-doggy-days-website">View GitHub Repository</a>
 </p>
+</div>
+
+<div align="center">
+
+<hr />
+
+
+<div align="center">
+
+<h3>👩🏻‍💻 Interests</h3>
+
+Web Development<br>
+Software Engineering<br>
+Creative & educational uses of technology<br>
+Data analysis<br>
+Machine Learning
+
+</div>
+
+<div align="center">
+
+<h3>🎓 Background</h3>
+Current substitute teacher with experience supporting technology use and instruction <br>
+
+B.S. Computer Science (2026)  
+M.Ed. (2017)  
+B.S. Psychology (2013)  
+
+
+</div>
+
+
+<hr />
+
+<div align="center">
+
+<h3>Top Five CliftonStrengths</h3>
+
+Realtor <br>
+Input <br>
+Learner <br>
+Responsibility <br>
+Adaptability <br>
+
+</div>
+
+<hr />
+
+<h3>🎯 Seeking Entry-Level Roles</h3>
+
+Software Development  <br>
+Web Development <br>
+Data Analysis  <br>
+Customer-facing technical roles (Technical Support, Implementation, Product Training)
+
+</div>
+
+
+<div align="center">
+
+<h3>📫 Get in Touch</h3>
+💼 <a href="https://www.linkedin.com/in/sarahgillard3">LinkedIn</a>
+
 </div>
 
 <hr />
