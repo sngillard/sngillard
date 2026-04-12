@@ -3,9 +3,7 @@
 <p align="center">
   Software Engineering • Web Development • Data Analysis • EdTech
 </p>
-
 <hr />
-
 
 <h2 align="center">⭐ Featured Projects</h2>
 
@@ -41,78 +39,52 @@ Developed a responsive frontend with SEO optimization, Netlify deployment, and f
 🔗 <a href="https://github.com/sngillard/ems-doggy-days-website">View GitHub Repository</a>
 </p>
 </div>
-
 <div align="center">
 
 <hr />
 
-
 <div align="center">
-
 <h3>👩🏻‍💻 Interests</h3>
-
 Web Development<br>
 Software Engineering<br>
 Creative & educational uses of technology<br>
 Data analysis<br>
-
 </div>
 
 <div align="center">
-
 <h3>🎓 Background</h3>
 Current substitute teacher with experience supporting technology use and instruction <br>
-
-B.S. Computer Science (2026)  
-M.Ed. (2017)  
+<br>
+B.S. Computer Science (2026)  <br>
+M.Ed. (2017)  <br>
 B.S. Psychology (2013)  
-
-
 </div>
-
 
 <hr />
 
 <div align="center">
 
 <h3>Top Five CliftonStrengths</h3>
-
 Realtor <br>
 Input <br>
 Learner <br>
 Responsibility <br>
 Adaptability <br>
-
 </div>
 
 <hr />
 
 <h3>🎯 Seeking Entry-Level Roles</h3>
-
 Software Development  <br>
 Web Development <br>
 Data Analysis  <br>
-Customer-facing & education-related technical roles (Technical Support, Implementation, Product Training, Programming Teacher)
+Customer-facing & education-related technical roles: <br>
+Technical Support, Implementation, Product Training, Programming Teacher
 
 </div>
-
-
 <div align="center">
-
 <h3>📫 Get in Touch</h3>
 💼 <a href="https://www.linkedin.com/in/sarahgillard3">LinkedIn</a>
-
 </div>
-
-<hr />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sngillard&color=blue" alt="Profile views" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sngillard&show_icons=true&locale=en&layout=compact" alt="sngillard" />
-</p>
 
 <div>
