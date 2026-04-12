@@ -55,7 +55,6 @@ Web Development<br>
 Software Engineering<br>
 Creative & educational uses of technology<br>
 Data analysis<br>
-Machine Learning
 
 </div>
 
@@ -93,7 +92,7 @@ Adaptability <br>
 Software Development  <br>
 Web Development <br>
 Data Analysis  <br>
-Customer-facing technical roles (Technical Support, Implementation, Product Training)
+Customer-facing & education-related technical roles (Technical Support, Implementation, Product Training, Programming Teacher)
 
 </div>
 
