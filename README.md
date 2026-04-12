@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 
 <p align="center">
-  Software Engineering • Web Development • Data Analysis • EdTech
+  Software Engineering • Web Development • Data Analysis • Educational Technology 
 </p>
 <hr />
 
@@ -74,14 +74,6 @@ Adaptability <br>
 
 <hr />
 
-<h3>🎯 Seeking Entry-Level Roles</h3>
-Software Development  <br>
-Web Development <br>
-Data Analysis  <br>
-Customer-facing & education-related technical roles: <br>
-Technical Support, Implementation, Product Training, Programming Teacher
-
-</div>
 <div align="center">
 <h3>📫 Get in Touch</h3>
 💼 <a href="https://www.linkedin.com/in/sarahgillard3">LinkedIn</a>
