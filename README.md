@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sarah</h1>
-
-<p align="center">
-  Software Engineering • Web Development • Data Analysis • Educational Technology 
-</p>
-<hr />
-
 <h2 align="center">⭐ Featured Projects</h2>
 
 <div align="center">
