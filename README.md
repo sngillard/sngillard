@@ -58,7 +58,7 @@ B.S. Psychology (2013)
 <div align="center">
 
 <h3>Top Five CliftonStrengths</h3>
-Realtor <br>
+Relator <br>
 Input <br>
 Learner <br>
 Responsibility <br>
