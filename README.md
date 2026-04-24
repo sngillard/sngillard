@@ -38,11 +38,13 @@ Developed a responsive frontend with SEO optimization, Netlify deployment, and f
 
 <div align="center">
 <h3>👩🏻‍💻 Interests</h3>
-Web development<br>
-Creative & educational uses of technology<br>
-Data analysis<br>
-Machine learning<br>
+-Building user-friendly websites<br>
+-Applying technology in education<br>
+-Data analysis & visualization<br>
+-Applied machine learning<br>
 </div>
+
+<hr/>
 
 <div align="center">
 <h3>🎓 Background</h3>
