@@ -38,10 +38,10 @@ Developed a responsive frontend with SEO optimization, Netlify deployment, and f
 
 <div align="center">
 <h3>👩🏻‍💻 Interests</h3>
-Web Development<br>
-Software Engineering<br>
+Web development<br>
 Creative & educational uses of technology<br>
 Data analysis<br>
+Machine learning<br>
 </div>
 
 <div align="center">
