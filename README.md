@@ -1,7 +1,7 @@
 <h2 align="center">⭐ Featured Projects</h2>
 
 <div align="center">
-<h3>🎓 Student Outcome Classification (Machine Learning)</h3>
+<h3>🎓 Student Outcome Classification (Machine Learning & Predictive Analysis)</h3>
 <p>Multiclass machine learning model predicting student outcomes (dropout, enrolled, graduate).<br/>
 Built with Python, scikit-learn, and Jupyter Notebooks.
 </p>
@@ -22,7 +22,7 @@ Models real-world delivery restrictions while minimizing the total distance trav
 </div>
 
 <div align="center">
-<h3>🐶 Em’s Doggy Days Website (Frontend Development)</h3>
+<h3>🐶 Em’s Doggy Days Website (Web Development & SEO)</h3>
   <p>
 Website built for a professional dog trainer based in Hopkinton, MA.<br />
 Developed a responsive frontend with SEO optimization, Netlify deployment, and form handling.
@@ -39,16 +39,17 @@ Developed a responsive frontend with SEO optimization, Netlify deployment, and f
 <div align="center">
 <h3>👩🏻‍💻 Interests</h3>
 -Building user-friendly websites<br>
--Applying technology in education<br>
 -Data analysis & visualization<br>
 -Applied machine learning<br>
+-Technology implementation & training<br>
+-Improving systems through practical technology 
 </div>
 
 <hr/>
 
 <div align="center">
 <h3>🎓 Background</h3>
-Current substitute teacher with experience supporting technology use and instruction <br>
+Education professional with classroom experience and a B.S. in Computer Science. Interested in opportunities across operations, analytics, customer success, technical support, and education/training.<br>
 <br>
 B.S. Computer Science (2026)  <br>
 M.Ed. (2017)  <br>
