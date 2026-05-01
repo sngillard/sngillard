@@ -49,8 +49,6 @@ Developed a responsive frontend with SEO optimization, Netlify deployment, and f
 
 <div align="center">
 <h3>🎓 Background</h3>
-Education professional with classroom experience and a B.S. in Computer Science. Interested in opportunities across operations, analytics, customer success, technical support, and education/training.<br>
-<br>
 B.S. Computer Science (2026)  <br>
 M.Ed. (2017)  <br>
 B.S. Psychology (2013)  
